@@ -34,7 +34,7 @@ As an employee with access to sensitive data, I want to randomly generate a pass
 
 To use the random password generator, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/your-repo.git`
+1. Clone the repository: `git clone https://github.com/Adinahidan/javascript-password-generator-challenge/'
 2. Open the project in your preferred code editor.
 3. Open the `index.html` file in a web browser.
 
